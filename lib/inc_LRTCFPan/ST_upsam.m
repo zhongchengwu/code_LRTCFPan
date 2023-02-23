@@ -1,0 +1,12 @@
+function z = ST_upsam(y, sf, sz, Nways)
+%
+z = zeros(Nways);
+t = zeros(sz);
+s0 = 3;
+for i=1:Nways(3)
+    t(s0:sf:end,s0:sf:end) = y(:,:,i);
+    z(:,:,i) = t;
+end
+%
+end
+
