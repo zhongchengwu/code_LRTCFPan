@@ -5,5 +5,22 @@
 
 - Homepage: https://zhongchengwu.github.io
 
+## Get started
+- Directly run: ``demo_LRTCFPan.m`` for an example on Guangzhou dataset (sensor: GF-2).
+
+## Citation
+If you find this code helpful, please kindly cite:
+```bibtex
+@Article{wu2023LRTCFPan,
+  title={LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening}, 
+  author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Huang, Jie and Chanussot, Jocelyn and Vivone, Gemine}, 
+  journal={IEEE Transactions on Image Processing},
+  volume={},
+  number={},
+  pages={1-16},
+  year={2023},
+}
+```
+
 ## Contact
 If interested, feel free to email me at <wuzhch97@163.com>.
