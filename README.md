@@ -15,9 +15,9 @@ If you find this code helpful, please kindly cite:
   title={LRTCFPan: Low-Rank Tensor Completion Based Framework for Pansharpening}, 
   author={Wu, Zhong-Cheng and Huang, Ting-Zhu and Deng, Liang-Jian and Huang, Jie and Chanussot, Jocelyn and Vivone, Gemine}, 
   journal={IEEE Transactions on Image Processing},
-  volume={},
+  volume={32},
   number={},
-  pages={1-16},
+  pages={1640-1655},
   year={2023},
 }
 ```
