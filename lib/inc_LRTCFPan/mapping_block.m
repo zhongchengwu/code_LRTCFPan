@@ -1,4 +1,8 @@
 function block_high_pan = mapping_block(block_lrms, block_pan)
+% Created by Zhong-Cheng Wu (wuzhch97@163.com)
+% Oct. 31, 2021
+% Updated by 
+% Apr. 01, 2023
 %
 [~, ~, S] = size(block_lrms);
 for i=1:S
