@@ -1,4 +1,9 @@
 function high_pan = hist_mapping(I_lrms, I_pan, ratio, blocksize)
+% Created by Zhong-Cheng Wu (wuzhch97@163.com)
+% Oct. 31, 2021
+% Updated by 
+% Apr. 01, 2023
+%
 br = blocksize(1);
 bc = blocksize(2);
 [nr, nc, S] = size(I_lrms);
