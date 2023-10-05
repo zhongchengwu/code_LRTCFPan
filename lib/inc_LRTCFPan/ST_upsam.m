@@ -1,4 +1,8 @@
 function z = ST_upsam(y, sf, sz, Nways)
+% Created by Zhong-Cheng Wu (wuzhch97@163.com)
+% Oct. 31, 2021
+% Updated by 
+% Apr. 01, 2023
 %
 z = zeros(Nways);
 t = zeros(sz);
