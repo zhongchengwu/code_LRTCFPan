@@ -1,4 +1,9 @@
 function par = FFT_kernel(sf, sensor, Nways)
+% Created by Zhong-Cheng Wu (wuzhch97@163.com)
+% Oct. 31, 2021
+% Updated by 
+% Apr. 01, 2023
+%
 sz = [Nways(1) Nways(2)];
 switch sensor
     case 'QB' 
